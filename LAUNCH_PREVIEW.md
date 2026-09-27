@@ -11,3 +11,6 @@ Privacy/terms are factual drafts reflecting source review, not a compliance cert
 Validated: desktop and 390px mobile layout, image assets, fixed store links, trial copy, and allowlisted UTM forwarding to Google's install-referrer URL. Invalid, unknown, oversized and email-like parameters are excluded. No tracker or advertising SDK was added. Apple campaign provider token and trusted paid-conversion reporting still need connection.
 
 Preview locally with `python3 -m http.server 8769 --bind 127.0.0.1`.
+
+## Review location
+The prepared branch is now in mehraj2k/namaznow-website because the current GitHub login cannot push to revolta-agent. This fork has GitHub Pages disabled. Merging its draft does not update the live domain. Publication needs access to the current Pages owner or a separately planned hosting transfer.
